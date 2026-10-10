@@ -1,0 +1,22 @@
+export const questions = [
+ ['Türkiye’nin başkenti hangisidir?', ['İstanbul','Ankara','İzmir','Bursa'],1],
+ ['Güneş sisteminin en büyük gezegeni hangisidir?', ['Mars','Venüs','Jüpiter','Satürn'],2],
+ ['Bir ahtapotun kaç kolu vardır?', ['6','8','10','12'],1],
+ ['Su, deniz seviyesinde kaç °C’de kaynar?', ['50','75','90','100'],3],
+ ['Mona Lisa’yı kim resmetmiştir?', ['Picasso','Van Gogh','Leonardo da Vinci','Monet'],2],
+ ['Dünyanın en büyük okyanusu hangisidir?', ['Atlas','Hint','Arktik','Pasifik'],3],
+ ['Bir üçgenin iç açılarının toplamı kaç derecedir?', ['90','180','270','360'],1],
+ ['Işığın boşluktaki hızı yaklaşık ne kadardır?', ['300 bin km/s','300 km/s','3 bin km/s','30 bin km/s'],0],
+ ['Satrançta her oyuncu kaç taşla başlar?', ['12','14','16','18'],2],
+ ['İstiklal Marşı’nın şairi kimdir?', ['Nazım Hikmet','Mehmet Akif Ersoy','Orhan Veli','Yahya Kemal'],1],
+ ['Hangi hayvan bir memelidir?', ['Penguen','Timsah','Yunus','Köpek balığı'],2],
+ ['Olimpiyat bayrağında kaç halka vardır?', ['4','5','6','7'],1],
+ ['En küçük asal sayı hangisidir?', ['0','1','2','3'],2],
+ ['Bitkilerin ışıkla besin üretmesine ne denir?', ['Fotosentez','Solunum','Buharlaşma','Mayalanma'],0],
+ ['Bir byte kaç bittir?', ['2','4','8','16'],2],
+ ['Hangi ülke bir ada ülkesidir?', ['Almanya','Japonya','Avusturya','İsviçre'],1],
+ ['Dünya’nın doğal uydusu hangisidir?', ['Mars','Ay','Titan','Venüs'],1],
+ ['Piyanoda ses üretmek için hangi parça titreşir?', ['Tel','Zar','Cam','Boru'],0],
+ ['Basketbolda sahada bir takımın kaç oyuncusu bulunur?', ['4','5','6','7'],1],
+ ['Bir saatte kaç saniye vardır?', ['600','1800','3600','6000'],2]
+];
